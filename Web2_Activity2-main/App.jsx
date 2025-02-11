@@ -11,10 +11,10 @@ function App() {
   return (
     <>
     <div className='h-100vh'>
-    <Header name="Andy Lazarte"/>
-      <Contact email="andylzarte@gmail.com " phone="09938901689" address="Poctol, Pilar, Sorsogon"/>
-      <Skills skill1="JavaScript" skill2="Java" skill3="React"  skill4="Html"  Skill5="C++"/>
-      <WorkExp date="2020-2024" date2="2019-2016"/>
+    <Header name="June Angel Montecastro"/>
+      <Contact email="juneangelmontecastro12@gmail.com " phone="09917233673" address="kidaco, Daraga, Albay"/>
+      <Skills skill1="HTML" skill2="Css" skill3="JavaScript"  skill4="React"  Skill5="C++"/>
+      <WorkExp date="2023-2025" date2="2020-2023"/>
     </div>
        
     </>
